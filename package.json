@@ -1,0 +1,24 @@
+{
+  "name": "super-random",
+  "version": "1.0.0",
+  "description": "A neat (20 lines) asynchronous random number generator based on supertask",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "supertask",
+    "random",
+    "for",
+    "fun"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zzzen/super-random.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Zzzen/super-random/issues"
+  },
+  "author": "zzzen",
+  "license": "WTFPL "
+}
